@@ -3,7 +3,6 @@
 #
 # Function: p6df::modules::slab::deps()
 #
-#  Depends:	 p6_git
 #>
 ######################################################################
 p6df::modules::slab::deps() {
@@ -17,7 +16,6 @@ p6df::modules::slab::deps() {
 #
 # Function: p6df::modules::slab::vscodes()
 #
-#  Depends:	 p6_git
 #>
 ######################################################################
 p6df::modules::slab::vscodes() {
@@ -29,7 +27,6 @@ p6df::modules::slab::vscodes() {
 #
 # Function: p6df::modules::slab::home::symlink()
 #
-#  Environment:	 P6_DFZ_SRC_DIR
 #>
 ######################################################################
 p6df::modules::slab::home::symlink() {
@@ -41,8 +38,6 @@ p6df::modules::slab::home::symlink() {
 #
 # Function: p6df::modules::slab::external::brews()
 #
-#  Depends:	 p6_git
-#  Environment:	 DENO_DIR
 #>
 ######################################################################
 p6df::modules::slab::external::brews() {
@@ -54,8 +49,6 @@ p6df::modules::slab::external::brews() {
 #
 # Function: p6df::modules::slab::langs()
 #
-#  Depends:	 p6_git
-#  Environment:	 P6_DFZ_SRC_DIR
 #>
 ######################################################################
 p6df::modules::slab::langs() {
@@ -67,8 +60,6 @@ p6df::modules::slab::langs() {
 #
 # Function: p6df::modules::slab::init()
 #
-#  Depends:	 p6_echo
-#  Environment:	 P6_DFZ_SRC_DIR
 #>
 ######################################################################
 p6df::modules::slab::init() {
