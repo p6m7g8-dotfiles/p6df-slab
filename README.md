@@ -45,11 +45,6 @@
 #### p6df-slab/init.zsh:
 
 - p6df::modules::slab::deps()
-- p6df::modules::slab::external::brews()
-- p6df::modules::slab::home::symlink()
-- p6df::modules::slab::init()
-- p6df::modules::slab::langs()
-- p6df::modules::slab::vscodes()
 
 
 
